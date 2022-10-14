@@ -1,0 +1,22 @@
+{
+  "name": "machankura.i18n",
+  "version": "0.0.1",
+  "description": "Library that provides multi-lingual support for machankura",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://code.sigidli.com/machankura/machankura.i18n.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "i18n": "^0.15.1",
+    "yaml": "^2.1.3"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
