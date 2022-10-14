@@ -3,6 +3,7 @@ productAmountPrompt: "How much {{bitrefillProductName]} {{categoryType}} to buy 
 amountRangeText: "(min: {{minimumAmount}} {{currencyTicker}}, max: {{maximumAmount}} {{currencyTicker}})"
 inCurrencyPrompt: "(in {{currencyTicker}})" 
 inputAmountOutOfRangePrompt: "You can't buy airtime out of the defined range"
+inputAmountOutOfRangeProductPrompt: "You can't buy {{bitrefillProductName}} out of the defined range"
 pleaseTryAgain: "Please try again."
 menu: "Menu"
 inputAmountImpossible: "You can't buy {{bitrefillProductName}} with the current input {{amountInput}}"
