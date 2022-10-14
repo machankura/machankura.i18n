@@ -1,6 +1,6 @@
 welcomeHeading: "Welcome to Machankura"
 productAmountPrompt: "How much {{bitrefillProductName]} {{categoryType}} to buy for {{receipent}}"
-amountRangeText: "(min:{{minimumAmount}} {{currencyTicker}}, max:{{maximumAmount}} {{currencyTicker}})"
+amountRangeText: "(min: {{minimumAmount}} {{currencyTicker}}, max: {{maximumAmount}} {{currencyTicker}})"
 inCurrencyPrompt: "(in {{currencyTicker}})" 
 inputAmountOutOfRangePrompt: "You can't buy airtime out of the defined range"
 pleaseTryAgain: "Please try again."
