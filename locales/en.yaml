@@ -78,7 +78,7 @@ resetPinCountDown: "You will be able to reset your PIN {{when}} from now. Please
 cancelPinReset: "To cancel the PIN reset enter your current PIN"
 cancelledPinReset: "Your PIN reset request has been cancelled. Thank you for using Machankura."
 pinUpdated: "Your Machankura PIN has been updated to the one you just entered."
-enterNewPin: "Enter your new 5 digit PIN"
+enterNewPin: "Enter your new 5 digit PIN:"
 expiredPinReset: "Pin reset has expired. Try again."
 pinManagement: "Machankura PIN management"
 changePin: "Change PIN"
