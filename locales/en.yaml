@@ -92,7 +92,7 @@ unitOfMeasurePrompt: "Which unit (measure of value) would you like to send Bitco
 amountToSendPrompt: "Enter how much {{selectedCurrencyTicker}} you want to send:"
 mediumToSendPrompt: "Where would you like to send {{amountInput}} {{selectedCurrencyTicker}}:"
 noPastRecipients: "No recipients on the list. Please input a receipent through phonenumber, lightning address, or username."
-selectPastRecipient: "Select a {{quickRecipientMethodText}}:"
+selectPastRecipient: "Select {{quickRecipientMethodText}}:"
 recipientNotFound: "Couldn't find recipient"
 enterDomainForLightningAddress: "Please enter the domain to complete the lightning address that starts with {{username}} to send {{amountInput}} {{selectedCurrencyTicker}}:"
 failedToUnderstandInputs: "Sorry we currently can't make sense of these inputs. Please try again later."
