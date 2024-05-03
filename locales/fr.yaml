@@ -39,7 +39,7 @@ giftCountryUnsupported: "Vous ne pouvez pas encore offrir de Bitcoins aux numér
 failedTransfer: "Échec du transfert de {{{amountText}}} à {{{receiver}}}. Veuillez réessayer."
 initiatedTransfer: "Votre transfert de {{{amountText}}} à {{{receiver}}} a été initié. Consultez vos transactions pour le statut."
 failedTransferLightningAddress: "Échec du transfert de {{{amountText}}} à {{{receiver}}}. Veuillez réessayer ou une autre adresse Lightning."
-lowBalanceForServiceFeePleaseIncrease: "Votre solde ({{{satsBalance}}} sats) est trop bas pour couvrir les frais de service. Veuillez augmenter votre solde ou envoyer un montant inférieur à {{{amountText}}}"
+lowBalanceForServiceFeePleaseIncrease: "Votre solde ({{{satsBalance}}} sats) est trop bas pour couvrir les frais de service ({{{feeText}}}). Augmentez votre solde ou envoyez un montant inférieur à {{{amountText}}}"
 aztecoVoucherAlreadyRedeemed: "Le bon Azteco ({{{aztecoVoucherCode}}}) a déjà été utilisé."
 redeemAztecoVoucherPrompt: "Nous sommes sur le point d'utiliser un bon Azteco d'une valeur de {{{satsAmount}}} sats sur votre compte Machankura."
 redeem: "Utiliser"

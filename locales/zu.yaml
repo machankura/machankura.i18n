@@ -39,7 +39,7 @@ giftCountryUnsupported: "Awukwazi ukupha ama-Bitcoins ezinombolweni zocingo kule
 failedTransfer: "Kwehlulekile ukudlulisa {{{amountText}}} ku-{{{receiver}}}. Sicela uzame futhi."
 initiatedTransfer: "Ukuqalisa ukudlulisa {{{amountText}}} ku-{{{receiver}}} sekuqalile. Hlola izinkokhelo zakho ukuze ubone isimo."
 failedTransferLightningAddress: "Kwehlulekile ukudlulisa {{{amountText}}} ku-{{{receiver}}}. Sicela uzame futhi noma usebenzise ikheli le-lightning elihlukile."
-lowBalanceForServiceFeePleaseIncrease: "Ibhalansi yakho ({{{satsBalance}}} sats) iphansi kakhulu ukumboza izindleko zenkonzo. Sicela ukwandisa ibhalansi yakho noma uthumele inani elincane kunelithi {{{amountText}}}"
+lowBalanceForServiceFeePleaseIncrease: "Ibhalansi yakho ({{{satsBalance}}} amasats) iphansi kakhulu ukumboza imali yesevisi ({{{feeText}}}). Khulisa ibhalansi noma uthumele inani eliphansi kune-{{{amountText}}}"
 aztecoVoucherAlreadyRedeemed: "I-voucher ye-Azteco ({{{aztecoVoucherCode}}}) isivele isitholiwe."
 redeemAztecoVoucherPrompt: "Sesisondele ukuthola i-voucher ye-Azteco enenani le-{{{satsAmount}}} sats kwi-akhawunti yakho ye-Machankura."
 redeem: "Thola"

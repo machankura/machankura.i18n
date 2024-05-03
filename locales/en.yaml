@@ -39,7 +39,7 @@ giftCountryUnsupported: "You cannot yet gift Bitcoins to phone numbers in that c
 failedTransfer: "Failed to transfer {{{amountText}}} to {{{receiver}}}. Please try again."
 initiatedTransfer: "Your transfer of {{{amountText}}} to {{{receiver}}} has been initiated. Check your transactions for status."
 failedTransferLightningAddress: "Failed to transfer {{{amountText}}} to {{{receiver}}}. Please try again or a different lightning address."
-lowBalanceForServiceFeePleaseIncrease: "Your balance ({{{satsBalance}}} sats) is too low to cover the service fee. Please increase your balance or send lower amount then {{{amountText}}}"
+lowBalanceForServiceFeePleaseIncrease: "Your balance ({{{satsBalance}}} sats) is too low to cover the service fee ({{{feeText}}}). Increase balance or send lower amount then {{{amountText}}}"
 aztecoVoucherAlreadyRedeemed: "Azteco voucher ({{{aztecoVoucherCode}}}) has already been redeemed."
 redeemAztecoVoucherPrompt: "We are about to redeem an Azteco voucher worth {{{satsAmount}}} sats to your Machankura account."
 redeem: "Redeem"

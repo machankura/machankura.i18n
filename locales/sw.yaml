@@ -39,7 +39,7 @@ giftCountryUnsupported: "Bado huwezi kutoa zawadi za Bitcoin kwa nambari za simu
 failedTransfer: "Imeshindikana kuhamisha {{{amountText}}} kwa {{{receiver}}}. Tafadhali jaribu tena."
 initiatedTransfer: "Uhamisho wa {{{amountText}}} kwa {{{receiver}}} umeanzishwa. Angalia muamala wako kwa hali."
 failedTransferLightningAddress: "Imeshindikana kuhamisha {{{amountText}}} kwa {{{receiver}}}. Tafadhali jaribu tena au anwani tofauti ya lightning."
-lowBalanceForServiceFeePleaseIncrease: "Salio lako ({{{satsBalance}}} sats) ni dogo mno kulipia ada ya huduma. Tafadhali ongeza salio lako au tuma kiasi kidogo kuliko {{{amountText}}}"
+lowBalanceForServiceFeePleaseIncrease: "Salio lako ({{{satsBalance}}} sats) ni dogo mno kulipia ada ya huduma ({{{feeText}}}). Ongeza salio au tuma kiasi kidogo kuliko {{{amountText}}}"
 aztecoVoucherAlreadyRedeemed: "Vocha ya Azteco ({{{aztecoVoucherCode}}}) tayari imetumika."
 redeemAztecoVoucherPrompt: "Tunakaribia kutumia vocha ya Azteco yenye thamani ya {{{satsAmount}}} sats kwenye akaunti yako ya Machankura."
 redeem: "Tumia"
