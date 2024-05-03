@@ -89,7 +89,7 @@ initiatedPinReset: "La réinitialisation du PIN a été initiée. Vous pourrez d
 failedPinResetInitiation: "Échec de l'initiation à la réinitialisation du PIN. Veuillez réessayer plus tard."
 enterCurrentPin: "Entrez votre PIN actuel :"
 unitOfMeasurePrompt: "Quelle unité (mesure de valeur) souhaitez-vous utiliser pour envoyer des sats à {{{receiver}}} ?"
-amountToSendPrompt: "Entrez combien vous souhaitez envoyer de {{{selectedCurrencyTicker}}} :"
+amountToSendPrompt: "Entrez combien de {{{selectedCurrencyTicker}}}{{{minimumMaximumRange}}} vous souhaitez envoyer :"
 mediumToSendPrompt: "Où souhaitez-vous envoyer des sats :"
 noPastRecipients: "Aucun destinataire sur la liste. Veuillez entrer un destinataire par numéro de téléphone, adresse Lightning, ou nom d'utilisateur."
 selectPastRecipient: "Sélectionnez {{{quickRecipientMethodText}}}:"
@@ -176,3 +176,4 @@ enterSendMediumPrompt: "Veuillez entrer le {{{medium}}} pour envoyer des Bitcoin
 lightningInvoice: "Facture LN"
 onchain: "Onchain"
 lightningInvoicesUnsupported: "Désolé, les factures LN ne sont pas prises en charge par USSD car elles dépassent généralement la limite de 160 caractères de l'USSD."
+minimumMaximumRange: "(Min: {{{minimumAmount}}} {{{currencyTicker}}}, Max: {{{maximumAmount}}} {{{currencyTicker}}})"
