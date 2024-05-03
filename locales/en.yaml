@@ -180,3 +180,4 @@ minimumMaximumRange: "(Min: {{{minimumAmount}}} {{{currencyTicker}}}, Max: {{{ma
 amountConversionText: "({{{amountInSats}}} sats = {{{amountConverted}}} {{{convertedCurrencyTicker}}})"
 sendBitcoinConfirmation: "You are about to send {{{amountText}}} to {{{receiver}}} (service fee: {{{feeText}}}{{{networkFeeText}}})."
 networkFee: "network fee: {{{networkFeeText}}} ${currencyTicker}"
+sendSats: "Send sats"
