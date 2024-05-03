@@ -180,4 +180,4 @@ minimumMaximumRange: "(Kima cha chini: {{{minimumAmount}}} {{{currencyTicker}}},
 amountConversionText: "({{{amountInSats}}} sats = {{{amountConverted}}} {{{convertedCurrencyTicker}}})"
 sendBitcoinConfirmation: "Unatarajia kutuma {{{amountText}}} kwa {{{receiver}}} (ada ya huduma: {{{feeText}}}{{{networkFeeText}}})."
 networkFee: "ada ya mtandao: {{{networkFeeText}}} {{{currencyTicker}}}"
-sendSats: "Thumela amasats"
+sendSats: "Tuma sats"

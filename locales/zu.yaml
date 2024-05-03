@@ -180,4 +180,4 @@ minimumMaximumRange: "(Okuncane: {{{minimumAmount}}} {{{currencyTicker}}}, Okukh
 amountConversionText: "({{{amountInSats}}} sats = {{{amountConverted}}} {{{convertedCurrencyTicker}}})"
 sendBitcoinConfirmation: "Usuzothumela {{{amountText}}} ku {{{receiver}}} (imali yesevisi: {{{feeText}}}{{{networkFeeText}}})."
 networkFee: "imali yenethiwekhi: {{{networkFeeText}}} {{{currencyTicker}}}"
-sendSats: "Tuma sats."
+sendSats: "Thumela amasats"
