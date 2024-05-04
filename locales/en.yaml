@@ -182,3 +182,4 @@ sendBitcoinConfirmation: "You are about to send {{{amountText}}} to {{{receiver}
 networkFee: "network fee: {{{networkFeeText}}} ${currencyTicker}"
 sendSats: "Send sats"
 pleaseUseWebForBolt11: "Please use the following website to generate a (Bolt 11) Lightning Invoice and receive sats to your account."
+lightningInvoiceShort: "LN Invoice"
