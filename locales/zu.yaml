@@ -89,7 +89,7 @@ initiatedPinReset: "Ukusetha kabusha kwe-PIN kuqalisiwe. Uzokwazi ukusetha iphas
 failedPinResetInitiation: "Kwehlulekile ukuqalisa ukusetha kabusha kwe-PIN. Sicela uzame futhi kamuva."
 enterCurrentPin: "Faka i-PIN yakho yamanje:"
 unitOfMeasurePrompt: "Ungathanda ukuthumela amasathoshi ku-{{{receiver}}} ngeyiphi iyunithi (indlela yokulinganisa inani)?"
-amountToSendPrompt: "Faka ukuthi ufuna ukuthumela malini {{{selectedCurrencyTicker}}}{{{minimumMaximumRange}}}:"
+amountToSendPrompt: "Faka ukuthi ufuna ukuthumela malini {{{selectedCurrencyTicker}}}{{{minimumMaximumRange}}} ku-{{{receiver}}}:"
 mediumToSendPrompt: "Ungathanda ukuthumela amasathoshi kuphi:"
 noPastRecipients: "Alukho uhlu lwabamukeli. Sicela ufake umamukeli ngenombolo yocingo, ikheli le-lightning, noma igama lomsebenzisi."
 selectPastRecipient: "Khetha {{{quickRecipientMethodText}}}:"

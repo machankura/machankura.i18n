@@ -89,7 +89,7 @@ initiatedPinReset: "La réinitialisation du PIN a été initiée. Vous pourrez d
 failedPinResetInitiation: "Échec de l'initiation à la réinitialisation du PIN. Veuillez réessayer plus tard."
 enterCurrentPin: "Entrez votre PIN actuel :"
 unitOfMeasurePrompt: "Quelle unité (mesure de valeur) souhaitez-vous utiliser pour envoyer des sats à {{{receiver}}} ?"
-amountToSendPrompt: "Entrez combien de {{{selectedCurrencyTicker}}}{{{minimumMaximumRange}}} vous souhaitez envoyer :"
+amountToSendPrompt: "Entrez combien de {{{selectedCurrencyTicker}}}{{{minimumMaximumRange}}} vous souhaitez envoyer à {{{receiver}}} :"
 mediumToSendPrompt: "Où souhaitez-vous envoyer des sats :"
 noPastRecipients: "Aucun destinataire sur la liste. Veuillez entrer un destinataire par numéro de téléphone, adresse Lightning, ou nom d'utilisateur."
 selectPastRecipient: "Sélectionnez {{{quickRecipientMethodText}}}:"

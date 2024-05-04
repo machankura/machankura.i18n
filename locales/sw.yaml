@@ -89,7 +89,7 @@ initiatedPinReset: "Kusete upya PIN kumeanzishwa. Utahitajika kuweka nenosiri ji
 failedPinResetInitiation: "Imeshindikana kuanzisha kusete upya PIN. Tafadhali jaribu tena baadaye."
 enterCurrentPin: "Ingiza PIN yako ya sasa:"
 unitOfMeasurePrompt: "Ungependa kutuma sats kwa {{{receiver}}} kwa kipimo gani (kipimo cha thamani)?"
-amountToSendPrompt: "Faka ukuthi ufuna ukuthumela malini {{{selectedCurrencyTicker}}}{{{minimumMaximumRange}}}:"
+amountToSendPrompt: "Ingiza kiasi gani cha {{{selectedCurrencyTicker}}}{{{minimumMaximumRange}}} unachotaka kutuma kwa {{{receiver}}}:"
 mediumToSendPrompt: "Ungependa kutuma sats wapi:"
 noPastRecipients: "Hakuna wapokeaji kwenye orodha. Tafadhali ingiza mpokeaji kupitia nambari ya simu, anwani ya lightning, au jina la mtumiaji."
 selectPastRecipient: "Chagua {{{quickRecipientMethodText}}}:"
