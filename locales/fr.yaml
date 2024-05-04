@@ -181,3 +181,4 @@ amountConversionText: "({{{amountInSats}}} sats = {{{amountConverted}}} {{{conve
 sendBitcoinConfirmation: "Vous êtes sur le point d'envoyer {{{amountText}}} à {{{receiver}}} (frais de service : {{{feeText}}}{{{networkFeeText}}})."
 networkFee: "frais de réseau : {{{networkFeeText}}} {{{currencyTicker}}}"
 sendSats: "Envoyer des sats"
+pleaseUseWebForBolt11: "Veuillez utiliser le site web suivant pour générer une facture Lightning (Bolt 11) et recevoir des sats sur votre compte."

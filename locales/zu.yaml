@@ -181,3 +181,4 @@ amountConversionText: "({{{amountInSats}}} sats = {{{amountConverted}}} {{{conve
 sendBitcoinConfirmation: "Usuzothumela {{{amountText}}} ku {{{receiver}}} (imali yesevisi: {{{feeText}}}{{{networkFeeText}}})."
 networkFee: "imali yenethiwekhi: {{{networkFeeText}}} {{{currencyTicker}}}"
 sendSats: "Thumela amasats"
+pleaseUseWebForBolt11: "Sicela usebenzise iwebhusayithi elandelayo ukukhiqiza i-Invoice ye-Bolt 11 ye-Lightning futhi wamukele amasats ku-akhawunti yakho."

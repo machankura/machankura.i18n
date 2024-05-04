@@ -181,3 +181,4 @@ amountConversionText: "({{{amountInSats}}} sats = {{{amountConverted}}} {{{conve
 sendBitcoinConfirmation: "Unatarajia kutuma {{{amountText}}} kwa {{{receiver}}} (ada ya huduma: {{{feeText}}}{{{networkFeeText}}})."
 networkFee: "ada ya mtandao: {{{networkFeeText}}} {{{currencyTicker}}}"
 sendSats: "Tuma sats"
+pleaseUseWebForBolt11: "Tafadhali tumia tovuti ifuatayo kutengeneza Ankara ya (Bolt 11) Lightning na kupokea sats kwenye akaunti yako."
