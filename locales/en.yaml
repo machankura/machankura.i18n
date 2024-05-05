@@ -185,7 +185,7 @@ pleaseUseWebForBolt11: "Please use the following website to generate a (Bolt 11)
 lightningInvoiceShort: "LN Invoice"
 languages: "Languages"
 noOtherLanguagesAvailable: "Not other languages are available."
-changeLanguageExplaination: "Once you change this setting all text you see on Machankura will be in English."
+changeLanguageExplanation: "Once you change this setting all text you see on Machankura will be in English."
 changeLanguagePinPrompt: "Enter {{pin}} to change language to English"
 changeLanguageConfirmation: "Change language to English"
 cancel: "Cancel"
