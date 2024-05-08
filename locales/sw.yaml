@@ -1,5 +1,5 @@
 welcomeHeading: "Karibu Machankura"
-productAmountPrompt: "Unataka kununua kiasi gani cha {{{bitrefillProductName}}} {{{categoryType}}} kwa {{{receipent}}}"
+productAmountPrompt: "Unataka kununua kiasi gani cha {{{bitrefillProductName}}} {{{categoryType}}} kwa {{{recipient}}}"
 amountRangeText: "(kima cha chini: {{{minimumAmount}}} {{{currencyTicker}}}, kima cha juu: {{{maximumAmount}}} {{{currencyTicker}}})"
 inCurrencyPrompt: "(katika {{{currencyTicker}}})"
 inputAmountOutOfRangePrompt: "Huwezi kununua muda wa hewa nje ya kiwango kilichoainishwa"

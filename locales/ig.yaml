@@ -1,5 +1,5 @@
 welcomeHeading: "Nnọọ na Machankura"
-productAmountPrompt: "Ego ole ka ị chọrọ ịzụta {{{bitrefillProductName}}} {{{categoryType}}} maka {{{receipent}}}"
+productAmountPrompt: "Ego ole ka ị chọrọ ịzụta {{{bitrefillProductName}}} {{{categoryType}}} maka {{{recipient}}}"
 amountRangeText: "(kacha nta: {{{minimumAmount}}} {{{currencyTicker}}}, kacha ukwuu: {{{maximumAmount}}} {{{currencyTicker}}})"
 inCurrencyPrompt: "(na {{{currencyTicker}}})"
 inputAmountOutOfRangePrompt: "Ị gaghị enwe ike ịzụta oge ikuku na mpụga oke achọrọ"

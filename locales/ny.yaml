@@ -1,5 +1,5 @@
 welcomeHeading: "Takulandirani ku Machankura"
-productAmountPrompt: "Kodi mugula ndalama zingati za {{{bitrefillProductName}}} {{{categoryType}}} kwa {{{receipent}}}"
+productAmountPrompt: "Kodi mugula ndalama zingati za {{{bitrefillProductName}}} {{{categoryType}}} kwa {{{recipient}}}"
 amountRangeText: "(osachepera: {{{minimumAmount}}} {{{currencyTicker}}}, osapitilira: {{{maximumAmount}}} {{{currencyTicker}}})"
 inCurrencyPrompt: "(mu {{{currencyTicker}}})"
 inputAmountOutOfRangePrompt: "Simungathe kugula ma airtime kunja kwa malire amene adakhazikitsidwa"

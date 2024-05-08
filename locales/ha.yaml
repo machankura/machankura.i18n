@@ -1,5 +1,5 @@
 welcomeHeading: "Barka da zuwa Machankura"
-productAmountPrompt: "Nawa ne {{{bitrefillProductName}}} {{{categoryType}}} za a saya don {{{receipent}}}"
+productAmountPrompt: "Nawa ne {{{bitrefillProductName}}} {{{categoryType}}} za a saya don {{{recipient}}}"
 amountRangeText: "(ƙarami: {{{minimumAmount}}} {{{currencyTicker}}}, matsakaici: {{{maximumAmount}}} {{{currencyTicker}}})"
 inCurrencyPrompt: "(a cikin {{{currencyTicker}}})"
 inputAmountOutOfRangePrompt: "Ba za ka iya sayen lokaci waje da iyaka da aka kayyade ba"

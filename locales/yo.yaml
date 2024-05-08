@@ -1,5 +1,5 @@
 welcomeHeading: "Kaabọ si Machankura"
-productAmountPrompt: "Iye wo ni o fẹ ra {{{bitrefillProductName}}} {{{categoryType}}} fun {{{receipent}}}"
+productAmountPrompt: "Iye wo ni o fẹ ra {{{bitrefillProductName}}} {{{categoryType}}} fun {{{recipient}}}"
 amountRangeText: "(kere: {{{minimumAmount}}} {{{currencyTicker}}}, pọju: {{{minimumAmount}}} {{{currencyTicker}}})"
 inCurrencyPrompt: "(ni {{{currencyTicker}}})"
 inputAmountOutOfRangePrompt: "O ko le ra airtime ti ko ba wa laarin iye ti a ṣalaye"

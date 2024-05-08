@@ -1,5 +1,5 @@
 welcomeHeading: "Welkom by Machankura"
-productAmountPrompt: "Hoeveel {{{bitrefillProductName}}} {{{categoryType}}} wil jy koop vir {{{receipent}}}"
+productAmountPrompt: "Hoeveel {{{bitrefillProductName}}} {{{categoryType}}} wil jy koop vir {{{recipient}}}"
 amountRangeText: "(min: {{{minimumAmount}}} {{{currencyTicker}}}, maks: {{{maximumAmount}}} {{{currencyTicker}}})"
 inCurrencyPrompt: "(in {{{currencyTicker}}})" 
 inputAmountOutOfRangePrompt: "Jy kan nie lugtyd koop buite die gedefinieerde reeks nie"

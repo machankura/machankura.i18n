@@ -1,5 +1,5 @@
 welcomeHeading: "Bienvenue chez Machankura"
-productAmountPrompt: "Quelle quantité de {{{bitrefillProductName}}} {{{categoryType}}} acheter pour {{{receipent}}}"
+productAmountPrompt: "Quelle quantité de {{{bitrefillProductName}}} {{{categoryType}}} acheter pour {{{recipient}}}"
 amountRangeText: "(min : {{{minimumAmount}}} {{{currencyTicker}}}, max : {{{maximumAmount}}} {{{currencyTicker}}})"
 inCurrencyPrompt: "(en {{{currencyTicker}}})"
 inputAmountOutOfRangePrompt: "Vous ne pouvez pas acheter de crédit téléphonique hors de la plage définie"

@@ -1,5 +1,5 @@
 welcomeHeading: "Tusanyuse okukwaniriza ku Machankura"
-productAmountPrompt: "Oyinza okugula otya {{{bitrefillProductName}}} {{{categoryType}}} {{{receipent}}}"
+productAmountPrompt: "Oyinza okugula otya {{{bitrefillProductName}}} {{{categoryType}}} {{{recipient}}}"
 amountRangeText: "(wa wansi: {{{minimumAmount}}} {{{currencyTicker}}}, waggulu: {{{maximumAmount}}} {{{currencyTicker}}})"
 inCurrencyPrompt: "(mu {{{currencyTicker}}})"
 inputAmountOutOfRangePrompt: "Toyinza kugula obukadde bw'amasimu ebiri ebiri mu kintambula"

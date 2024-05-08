@@ -1,5 +1,5 @@
 welcomeHeading: "Welcome to Machankura"
-productAmountPrompt: "How much {{{bitrefillProductName}}} {{{categoryType}}} you wan buy for {{{receipent}}}"
+productAmountPrompt: "How much {{{bitrefillProductName}}} {{{categoryType}}} you wan buy for {{{recipient}}}"
 amountRangeText: "(min: {{{minimumAmount}}} {{{currencyTicker}}}, max: {{{maximumAmount}}} {{{currencyTicker}}})"
 inCurrencyPrompt: "(inside {{{currencyTicker}}})"
 inputAmountOutOfRangePrompt: "You no fit buy airtime pass di range wey dem set"

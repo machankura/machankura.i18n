@@ -1,5 +1,5 @@
 welcomeHeading: "Siyakwamukela eMachankura"
-productAmountPrompt: "Ungathanda ukuthenga malini {{{bitrefillProductName}}} {{{categoryType}}} ku-{{{receipent}}}"
+productAmountPrompt: "Ungathanda ukuthenga malini {{{bitrefillProductName}}} {{{categoryType}}} ku-{{{recipient}}}"
 amountRangeText: "(okuncane: {{{minimumAmount}}} {{{currencyTicker}}}, okukhulu: {{{maximumAmount}}} {{{currencyTicker}}})"
 inCurrencyPrompt: "(ku-{{{currencyTicker}}})"
 inputAmountOutOfRangePrompt: "Awukwazi ukuthenga umoya-mpilo ngaphandle kobubanzi obuchaziwe"
