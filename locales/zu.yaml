@@ -223,3 +223,6 @@ deleteAccountRequestSubmitted: "Isicelo sakho sokususa i-akhawunti sithunyelwe. 
 failedToSubmitDeleteAccountRequest: "Ukuthumela isicelo sokususa i-akhawunti kuhlulekile."
 deleteAccountTODO: "Ukusebenza kokususa i-akhawunti akuphelelanga."
 functionalityComingSoon: "Ukusebenza kuzofika maduze."
+createAccountExplanation: "Uma usudale i-akhawunti ye-Machankura, ungathumela futhi wamukele i-Bitcoin:"
+createAccount: "Dala i-Akhawunti"
+

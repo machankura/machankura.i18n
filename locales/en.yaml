@@ -223,3 +223,5 @@ deleteAccountRequestSubmitted: "Your request to delete account has been submitte
 failedToSubmitDeleteAccountRequest: "Failed to submit delete account."
 deleteAccountTODO: "Delete account functionality inconclusive."
 functionalityComingSoon: "Functionality coming soon."
+createAccountExplanation: "Once you create a Machankura account, you can send and receive Bitcoin:"
+createAccount: "Create Account"
