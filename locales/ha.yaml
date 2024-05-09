@@ -223,3 +223,5 @@ deleteAccountRequestSubmitted: "An gabatar da buƙatarka na share asusu. Za a sa
 failedToSubmitDeleteAccountRequest: "An kasa gabatar da buƙatar share asusu."
 deleteAccountTODO: "Aikin share asusu bai kammala ba."
 functionalityComingSoon: "Aikin na zuwa nan ba da jimawa ba."
+createAccountExplanation: "Da zarar ka bude asusun Machankura, zaka iya aika da karɓar Bitcoin:"
+createAccount: "Bude Asusun"

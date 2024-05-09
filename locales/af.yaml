@@ -223,3 +223,5 @@ deleteAccountRequestSubmitted: "Jou versoek om rekening te verwyder is ingedien.
 failedToSubmitDeleteAccountRequest: "Kon nie rekeningverwyderingsversoek indien nie."
 deleteAccountTODO: "Verwyder rekening funksionaliteit onvolledig."
 functionalityComingSoon: "Funksionaliteit binnekort beskikbaar."
+createAccountExplanation: "Sodra jy 'n Machankura-rekening skep, kan jy Bitcoin stuur en ontvang:"
+createAccount: "Skep Rekening"

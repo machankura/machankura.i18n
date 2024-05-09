@@ -223,3 +223,5 @@ deleteAccountRequestSubmitted: "Ombi lako la kufuta akaunti limewasilishwa. Utap
 failedToSubmitDeleteAccountRequest: "Imeshindwa kuwasilisha ombi la kufuta akaunti."
 deleteAccountTODO: "Ufutaji akaunti hauna kikomo."
 functionalityComingSoon: "Uwezo huu utapatikana hivi karibuni."
+createAccountExplanation: "Mara tu unapounda akaunti ya Machankura, unaweza kutuma na kupokea Bitcoin:"
+createAccount: "Fungua Akaunti"

@@ -223,3 +223,5 @@ deleteAccountRequestSubmitted: "Àbéèrè rẹ fún ìparẹ àkọọlẹ ti g
 failedToSubmitDeleteAccountRequest: "Ó kùnà láti fi àbéèrè ìparẹ àkọọlẹ ránṣẹ́."
 deleteAccountTODO: "Ìṣẹ́ ìparẹ àkọọlẹ kò tíì parí."
 functionalityComingSoon: "Ìṣẹ́ yìí yóò wá láìpẹ́."
+createAccountExplanation: "Lẹhin ti o ṣẹda iroyin Machankura, o le fi ranṣẹ ati gba Bitcoin:"
+createAccount: "Ṣẹda Iroyin"

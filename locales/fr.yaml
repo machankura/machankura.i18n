@@ -223,3 +223,5 @@ deleteAccountRequestSubmitted: "Votre demande de suppression de compte a été s
 failedToSubmitDeleteAccountRequest: "Échec de la soumission de la demande de suppression de compte."
 deleteAccountTODO: "Fonctionnalité de suppression de compte non concluante."
 functionalityComingSoon: "Fonctionnalité à venir prochainement."
+createAccountExplanation: "Une fois que vous avez créé un compte Machankura, vous pouvez envoyer et recevoir des Bitcoin :"
+createAccount: "Créer un compte"

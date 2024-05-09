@@ -223,3 +223,5 @@ deleteAccountRequestSubmitted: "E zigala arịrịọ gị maka ihichapụ aka�
 failedToSubmitDeleteAccountRequest: "Ozugbo ịhapụ arịrịọ ihichapụ akaụntụ."
 deleteAccountTODO: "Ọrụ ihichapụ akaụntụ anaghị agwụ agwụ."
 functionalityComingSoon: "Ọrụ na-abịa n'oge adịghị anya."
+createAccountExplanation: "Ozugbo i kere akaụntụ Machankura, ị ga-enwe ike izipu na ịnata Bitcoin:"
+createAccount: "Mepụta Akaụntụ"

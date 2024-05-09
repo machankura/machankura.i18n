@@ -223,3 +223,5 @@ deleteAccountRequestSubmitted: "Okusaba kwo okuggya akawunti kutwaliddwa. Ojja k
 failedToSubmitDeleteAccountRequest: "Okusaba kwo okuggya akawunti tekutwaliddwa."
 deleteAccountTODO: "Ekikola okuggya akawunti tekinnaggwa."
 functionalityComingSoon: "Ebikola bijja mangu."
+createAccountExplanation: "Bw'otonda akawunti ya Machankura, osobola okusindika ne kwakira Bitcoin:"
+createAccount: "Tonda Akawunti"
