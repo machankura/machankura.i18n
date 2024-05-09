@@ -225,4 +225,6 @@ deleteAccountTODO: "Ukusebenza kokususa i-akhawunti akuphelelanga."
 functionalityComingSoon: "Ukusebenza kuzofika maduze."
 createAccountExplanation: "Uma usudale i-akhawunti ye-Machankura, ungathumela futhi wamukele i-Bitcoin:"
 createAccount: "Dala i-Akhawunti"
-
+doYouWantToContinuePreviousSession: "Ufuna ukuqhubeka neseshini yakho engaphelelanga yangaphambili?"
+yesContinuePreviousSession: "Yebo, qhubeka neseshini yangaphambili"
+newSession: "Iseshini entsha"
