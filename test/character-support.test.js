@@ -9,9 +9,6 @@ describe("Make sure character set is utf-8", () => {
     test(`equal and slash`, () => {
         expect(i18nUtil.getText("en", "enterPinToSend", {amountText: "1 sats /(1 sats = 0.00000001 BTC)", receiver: "yourself"})).toBe("Enter your Machankura PIN to send 1 sats /(1 sats = 0.00000001 BTC) to yourself:")
     })
-    
-
-    
 });
 
 // test("No Duplicate Keys all files", async () => {
