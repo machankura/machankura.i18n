@@ -277,3 +277,4 @@ howMuchClanBalanceToSend: "How much of the ${clan.name.text}@8333.mobi funds you
 wholeBalance: "Whole balance"
 percentageOfBalance: "Percentage of balance"
 enterPercentageOfClanBalance: "Please enter the percentage amount (min: 5, max: 100) of the funds you would like to propose to distribute from {{{clanAddress}}}:"
+lightningAddressShort: "LN Address"
