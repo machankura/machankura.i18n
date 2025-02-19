@@ -1,6 +1,6 @@
 {
   "name": "machankura.i18n",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library that provides multi-lingual support for machankura",
   "main": "index.js",
   "scripts": {
